@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link{
+  margin-left: 40px;
+}
+
+.footerOpt{
+  text-decoration: none;
+  color: black;
+  margin-right: 13px;
+}
+
+.fa-brands{
+  font-size: 1.3rem;
+}
+
+.bio{
+  margin-left: 5px;
+  color: black;
+}
+
+.pricing{
+  text-decoration: none;
+  line-height: 2.5;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+.signupInput{
+  width: 400px;
+  margin-top: 20px;
+}
